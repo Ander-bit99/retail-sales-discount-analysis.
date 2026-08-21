@@ -2,7 +2,7 @@
 
 ## 📌 Resumen del Proyecto
 Este proyecto analiza 250 transacciones comerciales ($316K USD) de una empresa minorista de tecnología en Colombia (Ene - Ago 2026). El objetivo principal es evaluar la rentabilidad por canal de venta, medir el impacto monetario de la política de descuentos ("Fuga de Ingresos") y analizar el comportamiento geográfico.
-(img/dashboard_preview.png)<img width="1360" height="768" alt="dashboard_preview" src="https://github.com/user-attachments/assets/90673286-2fb3-46ab-83d1-c538a0ed10fb" />
+<img width="1360" height="768" alt="dashboard_preview" src="https://github.com/user-attachments/assets/90673286-2fb3-46ab-83d1-c538a0ed10fb" />
 
 
 ## 💡 Principales Hallazgos (Key Insights)
