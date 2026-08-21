@@ -2,8 +2,7 @@
 
 ## 📌 Resumen del Proyecto
 Este proyecto analiza 250 transacciones comerciales ($316K USD) de una empresa minorista de tecnología en Colombia (Ene - Ago 2026). El objetivo principal es evaluar la rentabilidad por canal de venta, medir el impacto monetario de la política de descuentos ("Fuga de Ingresos") y analizar el comportamiento geográfico.
-
-![Dashboard Preview](img/dashboard_preview.png)
+(img/dashboard_preview.png)
 
 ## 💡 Principales Hallazgos (Key Insights)
 1. **Distribuidor vs. Sitio Web:** El canal *Distribuidor* lidera las ventas totales ($111.985 USD), pero absorbe el **41,49% de la fuga de ingresos** por descuentos. En contraposición, el *Sitio Web* genera el 82% de sus ingresos a precio pleno ($0% descuento).
