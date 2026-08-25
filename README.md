@@ -20,4 +20,4 @@ Este proyecto analiza 250 transacciones comerciales ($316K USD) de una empresa m
 ### 🔗 Recursos del Proyecto
 
 * 📊 **Libro Maestro de Excel:** [Ver / Descargar Excel]https://github.com/Ander-bit99/retail-sales-discount-analysis./blob/main/Analisis_canales_retail.xlsx
-* 📄 **Informe Ejecutivo en PDF:** [Ver / Descargar PDF](PEGA_AQUÍ_LA_URL_DEL_PDF)
+* 📄 **Informe Ejecutivo en PDF:** [Ver / Descargar PDF]([PEGA_AQUÍ_LA_URL_DEL_PDF](https://github.com/Ander-bit99/retail-sales-discount-analysis./blob/main/CASO_DE_ESTUDIO_AN%C3%81LISIS%20_RETAIL.pdf))
