@@ -14,3 +14,12 @@ Este proyecto analiza 250 transacciones comerciales ($316K USD) de una empresa m
 * **Excel Avanzado:** `BUSCARX`, `SUMAR.SI.CONJUNTO`, Tablas Dinámicas, Campos Calculados.
 * **Modelado de Datos:** Creación de la métrica personalizada *Fuga de Ingresos*.
 * **Visualización:** Dashboard interactivo con segmentadores y gráficos dinámicos.
+
+---
+
+### 🔗 Recursos del Proyecto
+
+* 📊 **Libro Maestro de Excel:** [`Analisis canales retail.xlsx`](./Analisis%20canales%20retail.xlsx?raw=true) *(Incluye tablas dinámicas y Dashboard interactivo)*
+* 📄 **Informe Ejecutivo en PDF:** [`CASO DE ESTUDIO ANÁLISIS DE CANALES DE VENTA Y DESCUENTOS EN RETAIL.pdf`](./CASO%20DE%20ESTUDIO%20ANÁLISIS%20DE%20CANALES%20DE%20VENTA%20Y%20DESCUENTOS%20EN%20RETAIL.pdf?raw=true) *(Documento PDF consolidado)*
+
+---
