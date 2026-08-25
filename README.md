@@ -19,7 +19,7 @@ Este proyecto analiza 250 transacciones comerciales ($316K USD) de una empresa m
 
 ### 🔗 Recursos del Proyecto
 
-* 📊 **Libro Maestro de Excel:** Analisis_canales_retail.xlsx *(Incluye tablas dinámicas y Dashboard interactivo)*
-* 📄 **Informe Ejecutivo en PDF:** CASO_DE_ESTUDIO_ANÁLISIS _RETAIL.pdf *(Documento PDF consolidado)*
+* 📊 **Libro Maestro de Excel:** [Analisis_canales_retail.xlsx] *(Incluye tablas dinámicas y Dashboard interactivo)*
+* 📄 **Informe Ejecutivo en PDF:**  *(Documento PDF consolidado)*
 
 ---
